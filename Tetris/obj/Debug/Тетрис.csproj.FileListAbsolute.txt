@@ -1,0 +1,23 @@
+C:\Users\rusad\Desktop\Tetris-c-sharp-master\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\rusad\Desktop\Tetris-c-sharp-master\Tetris\bin\Debug\Tetris.exe
+C:\Users\rusad\Desktop\Tetris-c-sharp-master\Tetris\bin\Debug\Tetris.pdb
+C:\Users\rusad\Desktop\Tetris-c-sharp-master\Tetris\obj\Debug\Тетрис.csproj.AssemblyReference.cache
+C:\Users\rusad\Desktop\Tetris-c-sharp-master\Tetris\obj\Debug\Тетрис.csproj.SuggestedBindingRedirects.cache
+C:\Users\rusad\Desktop\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\rusad\Desktop\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\rusad\Desktop\Tetris-c-sharp-master\Tetris\obj\Debug\Тетрис.csproj.GenerateResource.cache
+C:\Users\rusad\Desktop\Tetris-c-sharp-master\Tetris\obj\Debug\Тетрис.csproj.CoreCompileInputs.cache
+C:\Users\rusad\Desktop\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.exe
+C:\Users\rusad\Desktop\Tetris-c-sharp-master\Tetris\obj\Debug\Tetris.pdb
+C:\Users\rusad\Desktop\Курсовая работа по программированию\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\rusad\Desktop\Курсовая работа по программированию\Tetris\bin\Debug\Tetris.exe
+C:\Users\rusad\Desktop\Курсовая работа по программированию\Tetris\bin\Debug\Tetris.pdb
+C:\Users\rusad\Desktop\Курсовая работа по программированию\Tetris\obj\Debug\Тетрис.csproj.AssemblyReference.cache
+C:\Users\rusad\Desktop\Курсовая работа по программированию\Tetris\obj\Debug\Тетрис.csproj.SuggestedBindingRedirects.cache
+C:\Users\rusad\Desktop\Курсовая работа по программированию\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\rusad\Desktop\Курсовая работа по программированию\Tetris\obj\Debug\Тетрис.csproj.GenerateResource.cache
+C:\Users\rusad\Desktop\Курсовая работа по программированию\Tetris\obj\Debug\Тетрис.csproj.CoreCompileInputs.cache
+C:\Users\rusad\Desktop\Курсовая работа по программированию\Tetris\obj\Debug\Tetris.exe
+C:\Users\rusad\Desktop\Курсовая работа по программированию\Tetris\obj\Debug\Tetris.pdb
+C:\Users\rusad\Desktop\Курсовая работа по программированию\Tetris\obj\Debug\Tetris.Game.resources
+C:\Users\rusad\Desktop\Курсовая работа по программированию\Tetris\obj\Debug\Tetris.Menu.resources
